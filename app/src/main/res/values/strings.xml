@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetainInstanceTrue</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="zero_percent">0%</string>
+    <string name="title_activity_grid_view">GridViewActivity</string>
+</resources>
